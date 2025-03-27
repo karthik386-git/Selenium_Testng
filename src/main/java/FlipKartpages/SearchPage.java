@@ -8,7 +8,7 @@ import commons.Seleniumgenerics;
 
 public class SearchPage extends Seleniumgenerics{
 
-//	public WebDriver driver=null;
+public WebDriver driver=null;
 	
 //	public SearchPage(WebDriver driver) {
 //		this.driver=driver;
